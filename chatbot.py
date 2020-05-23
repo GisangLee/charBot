@@ -1,5 +1,5 @@
 import telegram
-api_key = '1113345357:AAENK-Wc1Dbo35GXdwSEPlsTLFx4N2hWp3M'
+api_key = 'key'
 bot = telegram.Bot(token=api_key)
 
 
